@@ -155,7 +155,7 @@ def menu():
         elif choice == "6":
             delete_book()
         elif choice == "7":
-            print("thank you")
+            print("Thank You")
             break
         else:
             print("Invalid Choice")
