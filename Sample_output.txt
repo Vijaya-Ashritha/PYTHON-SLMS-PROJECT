@@ -1,0 +1,263 @@
+
+------SMART LIBRARY MANAGEMENT SYSTEM------
+Enter Username: admin     
+Enter Password: 1234
+
+Login Successful!
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+
+Enter Choice: 1
+Book ID: B101
+Book Title: python programming
+Author: john
+Book Added Successfully!
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 2
+
+BOOK LIST
+Book ID : B101
+Title : python programming
+Author : john
+status : Available
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 1
+Book ID: B102
+Book Title: machine learning 
+Author: andrew ng
+Book Added Successfully!
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 2
+
+BOOK LIST
+Book ID : B101
+Title : python programming
+Author : john
+status : Available
+Book ID : B102
+Title : machine learning 
+Author : andrew ng
+status : Available
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 1
+Book ID: B103
+Book Title: java programming
+Author: steve
+Book Added Successfully!
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 2
+
+BOOK LIST
+Book ID : B101
+Title : python programming
+Author : john
+status : Available
+Book ID : B102
+Title : machine learning 
+Author : andrew ng
+status : Available
+Book ID : B103
+Title : java programming
+Author : steve
+status : Available
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 1
+Book ID: B104
+Book Title: c programming
+Author: david
+Book Added Successfully!
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 2
+
+BOOK LIST
+Book ID : B101
+Title : python programming
+Author : john
+status : Available
+Book ID : B102
+Title : machine learning 
+Author : andrew ng
+status : Available
+Book ID : B103
+Title : java programming
+Author : steve
+status : Available
+Book ID : B104
+Title : c programming
+Author : david
+status : Available
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 1
+Book ID: B105
+Book Title: data structures
+Author: tom
+Book Added Successfully!
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 2
+
+BOOK LIST
+Book ID : B101
+Title : python programming
+Author : john
+status : Available
+Book ID : B102
+Title : machine learning 
+Author : andrew ng
+status : Available
+Book ID : B103
+Title : java programming
+Author : steve
+status : Available
+Book ID : B104
+Title : c programming
+Author : david
+status : Available
+Book ID : B105
+Title : data structures
+Author : tom
+status : Available
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 3
+Enter Book Title: c programming
+
+Book Found
+{'id': 'B104', 'title': 'c programming', 'author': 'david', 'available': True}
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 4
+Enter Book ID: B104
+Student Name: vijaya ashritha
+Issue Date (YYYY-MM-DD): 2026-08-06
+Book Issued Successfully.
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 5
+Enter Book ID: B104
+Return Date (YYYY-MM-DD): 2026-08-09
+Total Days:  3
+Fine:  0
+Book Returned Successfully!
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 6
+Enter Book ID: B105
+Book Deleted Successfully!
+
+======MENU======
+1. Add Book
+2. View Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Delete Book
+7. Exit
+Enter Choice: 7
+thank you
